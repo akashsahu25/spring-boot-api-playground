@@ -25,10 +25,10 @@ This repository is created for practicing Spring Boot REST APIs using Postman. I
 <h3>📂 Project Structure</h3>
 
 com.akash.api
- ├── controller   → REST controllers
- ├── service      → Business logic
- ├── repository   → JPA repositories
- ├── entity       → JPA entities
+ ├── controller   → REST controllers<br>
+ ├── service      → Business logic<br>
+ ├── repository   → JPA repositories<br>
+ ├── entity       → JPA entities<br>
  └── dto          → Request/Response DTOs
 
 <h2>⚙️ How to Run the Project</h2>
@@ -60,9 +60,8 @@ Using MySQL
   mvn spring-boot:run
 
 - OR using IDE (IntelliJ / STS / VS Code)
-
-Open project<br>
-Run SpringBootApiPlaygroundApplication.java
+  Open project<br>
+  Run SpringBootApiPlaygroundApplication.java
 
 <h3>5️⃣ Test APIs Using Postman</h3>
 
