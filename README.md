@@ -41,17 +41,17 @@ com.akash.api
 
 <h3>2️⃣ Clone the Repository</h3>
 
-git clone https://github.com/your-username/spring-boot-api-playground.git
-cd spring-boot-api-playground
+-git clone https://github.com/your-username/spring-boot-api-playground.git
+-cd spring-boot-api-playground
 
 <h3>3️⃣ Configure Database</h3>
 
 Using MySQL
-spring.datasource.url=jdbc:mysql://localhost:3306/spring_api_db
-spring.datasource.username=root
-spring.datasource.password=your_password
-spring.jpa.hibernate.ddl-auto=update
-spring.jpa.show-sql=true
+-spring.datasource.url=jdbc:mysql://localhost:3306/spring_api_db
+-spring.datasource.username=root
+-spring.datasource.password=your_password
+-spring.jpa.hibernate.ddl-auto=update
+-spring.jpa.show-sql=true
 
 <h3>4️⃣ Run the Application</h3>
 
